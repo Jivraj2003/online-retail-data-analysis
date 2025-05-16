@@ -8,9 +8,10 @@ This repository contains all the code and insights gained from working with the 
 
 ## 📦 Dataset
 
-The dataset used in this project is the **Online Retail Dataset**, which includes invoice-level records with details like customer ID, country, purchase date, quantity, and price.
+The dataset used in this project is the **Online Retail Dataset**, which includes invoice-level records with details like customer ID, country, purchase date, quantity, and price. Data Set is also Provided in zip format or you can download from the given link.
 
 > 🔗 [UCI Machine Learning Repository – Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
+Data Set is also Provided in zip format.
 
 ---
 
