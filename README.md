@@ -3,6 +3,7 @@
 A project showcasing data cleaning, transformation, visualization, RFM analysis, and customer churn analysis on a publicly available online retail dataset.
 
 This repository contains all the code and insights gained from working with the **Online Retail Dataset**, which includes real-world transaction data from a UK-based online store. The goal is to explore the data, understand customer behavior, and identify potential churn risks.
+> 📚 **This project was completed with guidance from the [Codebasics YouTube channel](https://www.youtube.com/c/codebasics). Big thanks to them for making learning so accessible!**
 
 ---
 
